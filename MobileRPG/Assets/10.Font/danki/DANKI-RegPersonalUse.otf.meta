@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e99c394e15a79694c9a5193ee7cef3ec
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DANKI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c692888c8e3f3f4419784c210b08fbdf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
